@@ -1,0 +1,16 @@
+                        ‚€€€€  ‚€€€€€€€  ‚€€€€€€ ‚€€€  ‚€€
+                      ‚€€   ‚€€ ‚€€   ‚€€  ‚€€   ‚€€‚€ ‚€€
+                      ‚€€   ‚€€ ‚€€   ‚€€  ‚€€   ‚€€ ‚€‚€€
+                      ‚€€   ‚€€ ‚€€   ‚€€  ‚€€   ‚€€  ‚€€€
+                        ‚€€€€  ‚€€€€€€€  ‚€€€€€€ ‚€€   ‚€€
+
+                                   O  D  I  N
+
+
+   Copyright 2001-2002, Stanislav Karchebny <berk@madfire.net> et al.
+   Copyright 1998-2001, The Go! OS Developers <goos-dev@lists.sourceforge.net>.
+   Distributed under GPL. See file COPYING for more details.
+   Code portions distributed under BSD License and some code is in Public Domain.
+
+
+   Requirements for building from source: gcc/g++/nasm/gawk/bison/flex

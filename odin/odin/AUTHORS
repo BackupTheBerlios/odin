@@ -1,0 +1,16 @@
+# This file is intended to be both human- and machine-readable.
+# Entries are sorted by last name ascending.
+# N: name, R: role, E: email, M: smail, C: made contributions
+# Lines not starting with /^[NREMC]: / are ignored.
+
+N: Stanislav Karchebny
+E: berk@madfire.net
+R: Current Odin maintainer
+
+N: Igor Kucheryavenkov
+E: aik@limb.asn.ru
+R: Developer
+
+N: Greg Law
+E: glaw@nexwave-solutions.fr
+R: Original Go! OS creator
